@@ -1,3 +1,5 @@
 # hello-world
 first repository.
-PERSONAL INFO: Im an aspiring programmer wanting to learn more about Java, C++, and Haskell. Currently experienced with Python
+Aspiring data scientist experienced with Python and .js frameworks. 
+
+Learning about R C and whatever I can get my hands on.
